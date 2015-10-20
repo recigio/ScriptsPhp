@@ -1,0 +1,3 @@
+# ScriptsPhp
+
+Scripts gerais.
